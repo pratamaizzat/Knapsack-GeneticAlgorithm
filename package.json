@@ -1,0 +1,14 @@
+{
+  "name": "genetic-algorithm",
+  "version": "1.0.0",
+  "description": "genetic algorithm untuk soal UAS Kontrol cerdas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilfat Izzat Pratama",
+  "license": "MIT",
+  "dependencies": {
+    "nodeplotlib": "^0.7.1"
+  }
+}
